@@ -23,7 +23,7 @@ Output model berupa prediksi kelas dan confidence score.
 ## ⚙️ Arsitektur CNN (Singkat)
 
 - `Rescaling` dan `Data Augmentation`
-- 3 blok `Conv2D` + `MaxPooling2D`
+- `Conv2D` + `MaxPooling2D`
 - `Flatten` dan `Dense`
 - `Dropout`
 - `Softmax` untuk klasifikasi
