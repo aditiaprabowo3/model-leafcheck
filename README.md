@@ -20,7 +20,7 @@ Model dibangun menggunakan TensorFlow dan arsitektur CNN sederhana dengan bebera
 
 Output model berupa prediksi kelas dan confidence score.
 
-## ⚙️ Arsitektur CNN (Singkat)
+## ⚙️ Arsitektur CNN
 
 - `Rescaling` dan `Data Augmentation`
 - `Conv2D` + `MaxPooling2D`
